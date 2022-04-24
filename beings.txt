@@ -1,0 +1,22 @@
+man
+woman
+child
+girl
+boy
+kid
+lady
+gentleman
+old man
+old woman
+beauty
+mother
+father
+policewoman
+prostitute
+astronaut
+valkyrie
+army
+samurai
+geisha
+alien
+witch
