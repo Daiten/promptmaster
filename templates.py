@@ -76,6 +76,9 @@ prompt_templates = [
   {
     "prompt" : "{being} riding a {animal} in {location}, {style}"
   },
+  {
+    "prompt" : "{adjective} {being} {int} by {artist}"
+  }
     
 
 ]
