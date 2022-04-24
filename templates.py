@@ -66,7 +66,10 @@ prompt_templates = [
   },
   {
     "prompt" : "{style} of {location} by {artist}"
-  }
+  },
+  {
+    "prompt" : "painting of {adjective} {being}, {style}"
+  },
     
 
 ]
