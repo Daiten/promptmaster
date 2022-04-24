@@ -26,3 +26,4 @@ devil
 April O'Neil
 soldier
 Mowgli
+werewolf
