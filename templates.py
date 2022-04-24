@@ -81,6 +81,9 @@ prompt_templates = [
   },
   {
     "prompt" : "{animal} hiding in {location}, {style}"
+  },
+  {
+    "prompt" : "{style} painting of two {being}s by {artist}"
   }
     
 
