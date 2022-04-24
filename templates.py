@@ -56,7 +56,7 @@ prompt_templates = [
     "prompt" : "{color}-haired {being} {verb} {animal} in {location}, {style}"
   },
   {
-    "prompt" : "{adjective} {being} {int} in {location}"
+    "prompt" : "{adjective} {being} {intrans} in {location}"
   }
 
 ]
