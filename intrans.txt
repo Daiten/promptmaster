@@ -5,3 +5,4 @@ smoking
 casting a spell
 teasing
 crying
+resting
