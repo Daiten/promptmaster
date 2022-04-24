@@ -2,3 +2,4 @@ dancing
 standing
 smiling
 smoking
+casting a spell
