@@ -72,7 +72,7 @@ prompt_templates = [
   },
   {
     "prompt" : "two {being}s {verb} {thing}"
-  }
+  },
   {
     "prompt" : "{being} riding a {animal} in {location}, {style}"
   },
