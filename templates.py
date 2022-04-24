@@ -59,7 +59,10 @@ prompt_templates = [
     "prompt" : "{adjective} {being} {intrans} in {location}"
   },
   {
-    "prompt": "{being} in {location} {int}, {style}"
+    "prompt": "{being} in {location} {intrans}, {style}"
+  },
+  {
+    "prompt" : "{adjective} {being} {intrans}, {style}"
   },
     
 
