@@ -70,6 +70,9 @@ prompt_templates = [
   {
     "prompt" : "painting of {adjective} {being}, {style}"
   },
+  {
+    "prompt" : "two {being}s {verb} {thing}"
+  }
     
 
 ]
