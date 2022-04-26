@@ -93,7 +93,11 @@ prompt_templates = [
   },
   {
     "prompt" : "{being} with {adjective} {thing}, {style}"
+  },
+  {
+    "prompt" : "battle of {being} versus {being} in {location}, {style}"
   }
+    
     
     
     
