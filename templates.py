@@ -89,7 +89,7 @@ prompt_templates = [
     "prompt" : "{style} {painting} of {location}"
   },
   {
-    "prompt" : "portrait of {entity}, {style}"
+    "prompt" : "portrait of {being}, {style}"
   },
   {
     "prompt" : "{being} with {adjective} {thing}, {style}"
