@@ -102,15 +102,8 @@ prompt_templates = [
   {
     "prompt" : "{adjective} {being} surrounded by {adjective} {being}s"
   },
-  {
-    "prompt" : "{adjective} {being} {intrans} in style of {style} and {style}"
-  },
-  {
-    "prompt" : "{being} wearing {adjective} {clothes}, {style}"
-  }
-    
-    
-    
-    
+  {"prompt" : "{adjective} {being} {intrans} in style of {style} and {style}"},
+  {"prompt" : "{being} wearing {adjective} {clothes}, {style}"},
+  {"prompt" : "{animal} {intrans} in {location}, {style}"}
 
 ]
