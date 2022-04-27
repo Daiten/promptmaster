@@ -96,6 +96,9 @@ prompt_templates = [
   },
   {
     "prompt" : "battle of {being} versus {being} in {location}, {style}"
+  },
+  {
+    "prompt" : "{entity}, {adjective} {style}"
   }
     
     
