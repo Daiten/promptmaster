@@ -1,4 +1,6 @@
 # this is just to make the code cleaner, so it's all centered here.
+import inflect
+engine = inflect.engine()
 
 prompt_templates = [
   {
