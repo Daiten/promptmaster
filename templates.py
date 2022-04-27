@@ -98,7 +98,10 @@ prompt_templates = [
     "prompt" : "battle of {being} versus {being} in {location}, {style}"
   },
   {
-    "prompt" : "{entity}, {adjective} {style}"
+    "prompt" : "{being}, {adjective} {style}"
+  },
+  {
+    "prompt" : "{adjective} {being} surrounded by {adjective} {being}s"
   }
     
     
