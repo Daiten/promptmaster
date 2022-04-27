@@ -71,7 +71,7 @@ prompt_templates = [
     "prompt" : "painting of {adjective} {being}, {style}"
   },
   {
-    "prompt" : "two {being}s {verb} {thing}"
+    "prompt" : "two " + engine.plural("{being} ") + "{verb} {thing}"
   },
   {
     "prompt" : "{being} riding a {animal} in {location}, {style}"
