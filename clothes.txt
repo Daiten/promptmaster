@@ -1,1 +1,12 @@
-
+bra
+hat
+shirt
+t-shirt
+boots
+shoes
+tanktop
+suit
+jumper
+sweater
+knickers
+shorts
