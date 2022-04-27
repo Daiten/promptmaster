@@ -1,7 +1,4 @@
 # this is just to make the code cleaner, so it's all centered here.
-import inflect
-engine = inflect.engine()
-
 prompt_templates = [
   {
       "prompt" : "{adjective} {thing}, {style}",
@@ -73,7 +70,7 @@ prompt_templates = [
     "prompt" : "painting of {adjective} {being}, {style}"
   },
   {
-    "prompt" : "two " + engine.plural("{being} ") + "{verb} {thing}"
+    "prompt" : "two {being}s {verb} {thing}"
   },
   {
     "prompt" : "{being} riding a {animal} in {location}, {style}"
