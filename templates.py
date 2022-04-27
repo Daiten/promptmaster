@@ -105,5 +105,6 @@ prompt_templates = [
   {"prompt" : "{adjective} {being} {intrans} in style of {style} and {style}"},
   {"prompt" : "{being} wearing {adjective} {clothes}, {style}"},
   {"prompt" : "{animal} {intrans} in {location}, {style}"}
+  {"prompt" : "an illustration of a {adjective} {being} holding a {thing}"}
 
 ]
