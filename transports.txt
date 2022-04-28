@@ -1,1 +1,12 @@
-
+bike
+car
+jet
+airplane
+bicycle
+helicopter
+jeep
+train
+bus
+taxi
+spaceship
+skateboard
