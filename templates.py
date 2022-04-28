@@ -107,7 +107,8 @@ prompt_templates = [
   {"prompt" : "{animal} {intrans} in {location}, {style}"},
   {"prompt" : "an illustration of a {adjective} {being} holding a {thing}"},
   {"prompt" : "a painting of a {location} in a {location}"},
-  {"prompt" : "a painting of {thing}s with {thing} {verb} the {thing}"}
+  {"prompt" : "a painting of {thing}s with {thing} {verb} the {thing}"},
+  {"prompt" : "a {animal} in a {clothes} with a {style} vibe, {intrans} a {adjective} {adjective} {thing}, {style}"}
   
 
 ]
