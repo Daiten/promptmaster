@@ -11,3 +11,4 @@ sweater
 knickers
 shorts
 earrings
+headphones
