@@ -47,3 +47,4 @@ waterfall
 temple
 dungeon
 metropolis
+Walmart
