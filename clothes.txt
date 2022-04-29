@@ -12,3 +12,4 @@ knickers
 shorts
 earrings
 headphones
+lab coat
