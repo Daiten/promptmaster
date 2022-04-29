@@ -591,3 +591,4 @@ boat
 grenade
 sunset
 poker
+chess
