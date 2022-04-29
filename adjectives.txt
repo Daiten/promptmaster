@@ -135,3 +135,6 @@ lego
 humanoid
 ancient
 greek
+19th century
+naturalist's
+scientific
