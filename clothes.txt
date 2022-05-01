@@ -13,3 +13,8 @@ shorts
 earrings
 headphones
 lab coat
+armor
+kimono
+fedora
+g-string
+thongs
