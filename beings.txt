@@ -38,3 +38,5 @@ pirate
 psionic
 succubus
 genius
+Sonic the Hedgehog
+Mario
