@@ -117,6 +117,7 @@ prompt_templates = [
   {"prompt" : "{thing} {verb} {animal}s"},
   {"prompt" : "a {animal} {verb} {thing}"},
   {"prompt" : "{adjective} {adjective} {adjective} illustration of {animal}s"},
-  {"prompt" : "a {being} {verb} {thing}s and {thing}s, by {artist}"}
-  
+  {"prompt" : "a {being} {verb} {thing}s and {thing}s, by {artist}"},
+  {"prompt" : "{adjective} digital art of {being} dressed up like {being}"}
+    
 ]
